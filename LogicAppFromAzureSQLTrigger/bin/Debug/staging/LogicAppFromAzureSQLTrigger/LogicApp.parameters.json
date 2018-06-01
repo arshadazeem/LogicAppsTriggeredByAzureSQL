@@ -1,0 +1,15 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "logicAppName": {
+      "value": "LogicAppFromAzureSQLTrigger"
+    },
+    "sql_1_username": {
+      "value": "hackadmin"
+    },
+    "sql_1_password": {
+      "value": "H@ckathon"
+    }
+  }
+}

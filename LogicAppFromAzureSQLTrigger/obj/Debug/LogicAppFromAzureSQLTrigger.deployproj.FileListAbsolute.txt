@@ -1,0 +1,1 @@
+C:\dev\dotnetprojects\LogicAppFromAzureSQLTrigger\LogicAppFromAzureSQLTrigger\obj\Debug\LogicAppFromAzureSQLTrigger.deployproj.CoreCompileInputs.cache
