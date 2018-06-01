@@ -50,7 +50,7 @@
     },
     "office365_1_Connection_DisplayName": {
       "type": "string",
-      "defaultValue": "arazeem@microsoft.com"
+      "defaultValue": "<enter_email>"
     },
     "sql_1_Connection_Name": {
       "type": "string",
